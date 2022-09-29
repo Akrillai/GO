@@ -16,7 +16,7 @@ func main() {
 	case y >= 1981 && y < 1997:
 		fmt.Println("Привет, миллениал!")
 	case y >= 1997 && y < 2013:
-		fmt.Println("Привет, зумер!")
+		fmt.Println("Привет, Zoomah22!")
 	case y >= 2013:
 		fmt.Println("Привет, альфа!")
 	default:
