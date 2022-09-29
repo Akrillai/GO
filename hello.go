@@ -6,7 +6,7 @@ var a, b int
 
 func main() {
 
-	a = 5
+	a = 555
 	a = a * 2
 	fmt.Println("Hello, world!", a)
 }
